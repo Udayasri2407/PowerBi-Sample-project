@@ -1,2 +1,5 @@
 # PowerBi-Sample-project
-This Power BI project delivers an interactive dashboard to visualize key business metrics. It involves data extraction, cleaning with Power Query, modeling with DAX, and creating insightful reports to help stakeholders identify trends and make data-driven decisions.
+#Project Objective
+To build an interactive Power BI dashboard that helps visualize and analyze key business metrics, enabling real-time data-driven decision-making through effective data modeling, transformation, and visualization techniques.
+
+

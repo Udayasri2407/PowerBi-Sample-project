@@ -21,7 +21,7 @@ To set up the Sales Insights Dashboard locally, follow these steps:
 1. Clone the repository:
 2.  Navigate into the project directory:
 3. Open the Power BI Desktop application.
-4. Import the Power BI report file (`SalesInsights.pbix`) from the project directory.
+4. Import the Power BI report file (`Sample Project.pbix`) from the project directory.
 
 ## Usage
 

@@ -30,3 +30,16 @@ Once the dashboard is set up, you can interact with the visualizations to explor
 - Use the filters on the dashboard to customize the view based on specific criteria.
 - Hover over charts and graphs to see detailed information.
 - Analyze trends and patterns to make informed business decisions.
+
+  ## Visualization Dashboard
+
+  ![Screenshot 2025-06-02 225605](https://github.com/user-attachments/assets/52158484-cc58-46ff-abb0-104c399208da)
+
+
+## Conclusion 
+
+By utilizing this dashboard, companies can enhance their sales strategies, optimize resource allocation, and ultimately drive better business outcomes. We invite users to explore the dashboard, provide feedback, and contribute to its ongoing development.
+
+
+  
+
